@@ -1,0 +1,784 @@
+patient_id	index_date	age	race_group	discharge_status	ischemic_cardiomyopathy	obesity	comorbidity_score	Loop_diuretics	Other_diuretics	early_mortality	readmission_30
+aggJgJJ5Y5l	10/18/2011	67.42778919	2: Black	1: Discharge to Home/ Self Care	1	1	4	1	1	0	0
+aggJgJJ8lJn	6/6/2013	67.62217659	1: White	3: Discharged to organized home HSO	0	1	8	1	0	0	0
+aggJgJJll5n	12/1/2013	51.52635181	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+aggJgJg85hY	12/7/2011	61.86447639	2: Black	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+aggJgJgg88B	9/21/2013	68.20533881	1: White	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+aggJgJgngB5	2/2/2014	68.41067762	1: White	4: Left against medical advice or discontin	0	0	5	1	0	0	0
+aggJgJl85RJ	7/13/2013	56.34770705	1: White	1: Discharge to Home/ Self Care	0	1	11	1	0	0	0
+aggJgJlRYhg	3/26/2012	66.44490075	1: White	1: Discharge to Home/ Self Care	0	1	7	0	0	0	0
+aggJgJlghln	3/30/2012	54.71868583	2: Black	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+aggJgJnJYBl	11/29/2012	67.1211499	1: White	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+aggJgg5JYRn	4/22/2013	50.55989049	2: Black	3: Discharged to organized home HSO	0	0	9	1	1	0	0
+aggJgg5RghY	7/9/2013	62.51882272	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+aggJgg5Rgnn	8/1/2013	57.37166324	1: White	5: Transfer to ICF	1	1	3	1	0	0	0
+aggJgg8JRnn	3/11/2012	52.82409309	2: Black	1: Discharge to Home/ Self Care	0	0	17	0	0	0	0
+aggJgg8JlBY	5/24/2011	42.44490075	2: Black	1: Discharge to Home/ Self Care	0	1	9	1	0	0	0
+aggJgg8Rggl	4/19/2011	67.6495551	1: White	2: Discharge to SNF	1	0	3	1	0	0	0
+aggJgg8nJ5n	8/7/2013	58.14921287	1: White	1: Discharge to Home/ Self Care	0	1	2	1	0	0	0
+aggJgg8nlJg	11/11/2012	59.40314853	1: White	1: Discharge to Home/ Self Care	1	0	4	0	0	0	0
+aggJggBRYhl	4/8/2013	67.9835729	2: Black	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+aggJggBlR5Y	1/19/2013	68.07939767	1: White	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+aggJggJ8RRg	7/17/2013	59.99178645	2: Black	5: Transfer to ICF	0	0	9	0	0	0	0
+aggJggJJhYn	11/28/2012	67.95345654	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggJggRhB8h	3/25/2013	67.63039014	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggJggRl5h5	9/26/2013	56.60780288	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggJggRl8JR	6/26/2012	53.16084873	6: Other	1: Discharge to Home/ Self Care	1	1	1	1	0	0	0
+aggJggY558l	10/6/2012	57.23203285	1: White	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+aggJggY5ghl	10/8/2013	68.1779603	7: Unknown	1: Discharge to Home/ Self Care	0	1	1	1	0	0	0
+aggJggYBRnl	12/6/2011	66.27789186	2: Black	1: Discharge to Home/ Self Care	0	0	7	1	1	0	0
+aggJggYYgJ5	11/17/2011	52.92813142	2: Black	2: Discharge to SNF	0	0	11	1	0	0	0
+aggJggYgJY8	10/29/2013	68.19712526	2: Black	3: Discharged to organized home HSO	0	0	3	1	1	0	0
+aggJgggRhnR	10/10/2011	42.80355921	1: White	3: Discharged to organized home HSO	0	1	6	1	0	0	0
+aggJgggYBYh	3/12/2013	67.98083504	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+aggJgggYlJB	12/13/2013	69.2019165	2: Black	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+aggJgghgBRB	3/3/2012	66.68309377	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+aggJgghgYn8	6/17/2011	66.01232033	1: White	3: Discharged to organized home HSO	1	1	6	0	0	0	1
+aggJgghhBgB	1/16/2013	60.33127995	1: White	1: Discharge to Home/ Self Care	1	1	9	1	1	0	0
+aggJgghllB5	7/31/2012	31.98083504	7: Unknown	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+aggJgglBgn5	2/6/2012	42.30527036	4: Hispanic	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+aggJgglYh85	8/16/2013	65.48665298	1: White	3: Discharged to organized home HSO	0	0	4	0	0	0	0
+aggJggn5JBg	3/4/2012	66.62833676	1: White	1: Discharge to Home/ Self Care	0	1	4	0	0	0	0
+aggJggn5ngl	1/12/2013	51.4880219	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+aggJggn8Jnl	2/23/2012	64.42162902	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	1
+aggJggnn8Bl	12/29/2013	61.84804928	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggg5558Y8h	3/14/2011	69.98494182	1: White	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
+aggg55BJJ8n	9/30/2012	68.58316222	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+aggg5888YYR	4/25/2012	58.01505818	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggg588B8lJ	5/18/2012	63.52908967	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+aggg588g558	3/29/2011	69.01848049	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggg58BgJYh	1/16/2011	62.44490075	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+aggg58JJlYl	3/11/2013	60.22997947	1: White	1: Discharge to Home/ Self Care	1	1	2	1	1	0	0
+aggg58Jg5gg	4/19/2011	69.65366188	1: White	1: Discharge to Home/ Self Care	0	1	6	0	0	0	0
+aggg58JgJ5R	10/19/2012	68.13963039	1: White	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+aggg58JhnY8	12/2/2013	69.64544832	1: White	2: Discharge to SNF	1	1	6	0	0	0	0
+aggg58RJglg	8/3/2012	60.74743327	1: White	1: Discharge to Home/ Self Care	1	0	5	0	1	0	0
+aggg58RgR5h	1/22/2011	55.35112936	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	1	0	0
+aggg58Rh885	10/19/2013	64.97741273	1: White	1: Discharge to Home/ Self Care	0	0	14	1	0	0	0
+aggg58RlRgh	8/6/2012	66.4476386	1: White	3: Discharged to organized home HSO	0	1	3	1	0	0	0
+aggg58Rn8BJ	6/3/2011	45.39356605	2: Black	1: Discharge to Home/ Self Care	0	0	18	0	0	0	0
+aggg58YhBgR	4/25/2013	45.85626283	2: Black	3: Discharged to organized home HSO	0	0	6	1	1	0	1
+aggg58Ynn5R	11/5/2013	62.74332649	1: White	2: Discharge to SNF	0	1	5	1	0	0	0
+aggg58gJnl5	3/7/2011	47.78644764	2: Black	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+aggg58ggnh5	5/22/2013	65.46475017	1: White	1: Discharge to Home/ Self Care	0	0	11	1	0	0	0
+aggg58hgRng	6/7/2013	52.78850103	2: Black	3: Discharged to organized home HSO	0	0	6	0	0	0	0
+aggg58hnBnY	6/20/2011	69.49212868	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggg58lBlRY	7/17/2013	65.24572211	1: White	1: Discharge to Home/ Self Care	1	0	10	1	1	0	0
+aggg58lnYJR	1/5/2013	56.57494867	2: Black	1: Discharge to Home/ Self Care	0	1	5	0	1	0	0
+aggg58nhBgJ	10/10/2011	69.69746749	1: White	1: Discharge to Home/ Self Care	1	0	8	1	0	0	0
+aggg5BRRBRY	2/15/2011	57.47296372	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggg5BRRYRR	12/11/2011	63.60848734	1: White	2: Discharge to SNF	0	1	5	1	1	0	0
+aggg5BRYJlB	10/12/2011	54.23682409	1: White	1: Discharge to Home/ Self Care	0	0	3	1	1	0	0
+aggg5BY55hB	12/11/2012	67.79739904	1: White	1: Discharge to Home/ Self Care	0	0	5	1	1	0	0
+aggg5JBnBlB	1/7/2013	51.25804244	1: White	1: Discharge to Home/ Self Care	0	1	1	1	0	0	0
+aggg5JJ5JgY	3/5/2012	67.03353867	1: White	3: Discharged to organized home HSO	0	0	4	1	0	0	1
+aggg5JYggR8	12/27/2013	63.11841205	1: White	2: Discharge to SNF	0	1	1	1	0	0	0
+aggg5R5g5lB	6/23/2012	58.48870637	1: White	1: Discharge to Home/ Self Care	0	1	5	0	0	1	0
+aggg5R5l555	12/13/2012	53.60985626	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggg5R8B5Bg	5/25/2011	62.72689938	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+aggg5R8lgJY	7/11/2011	30.85557837	2: Black	1: Discharge to Home/ Self Care	0	0	9	0	0	0	0
+aggg5R8nJhR	7/7/2012	53.30047912	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggg5RBlhJn	9/3/2011	61.98767967	1: White	2: Discharge to SNF	0	0	3	0	0	0	0
+aggg5RJJ5gB	12/1/2012	69.79329227	2: Black	1: Discharge to Home/ Self Care	0	1	6	0	0	0	0
+aggg5RJJBnR	8/14/2011	58.2642026	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+aggg5RJJY5B	12/12/2011	56.58316222	2: Black	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+aggg5RJglBh	10/18/2011	59.4661191	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+aggg5RJln5J	4/9/2011	68.03285421	1: White	1: Discharge to Home/ Self Care	1	1	8	1	0	0	0
+aggg5RR5lgB	12/10/2012	58.34633813	1: White	1: Discharge to Home/ Self Care	0	0	8	1	0	0	0
+aggg5RRRnYl	4/2/2013	64.53114305	4: Hispanic	1: Discharge to Home/ Self Care	0	0	8	0	1	0	0
+aggg5RRhY8h	2/27/2011	69.4017796	3: Asian	2: Discharge to SNF	0	0	9	1	0	0	0
+aggg5RYY8YR	5/30/2011	69.5797399	1: White	1: Discharge to Home/ Self Care	1	0	8	0	0	0	0
+aggg5Rg8585	4/6/2012	69.54962355	2: Black	1: Discharge to Home/ Self Care	0	0	7	1	0	0	0
+aggg5RgBYll	8/28/2011	57.00479124	2: Black	3: Discharged to organized home HSO	0	0	8	1	0	0	0
+aggg5Rh8Rh5	4/18/2013	57.61259411	2: Black	1: Discharge to Home/ Self Care	0	0	7	1	0	0	0
+aggg5RhBl8h	8/12/2011	42.54072553	2: Black	1: Discharge to Home/ Self Care	0	1	7	0	0	0	0
+aggg5RlgnJn	7/10/2013	58.68309377	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+aggg5Y85n8g	2/14/2011	69.41273101	1: White	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+aggg5Y8nh8n	1/9/2011	54.91033539	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+aggg5YJBn5B	2/23/2013	63.66324435	2: Black	2: Discharge to SNF	1	0	6	1	0	0	0
+aggg5YJRYBn	6/19/2013	41.54140999	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+aggg5YYRYhn	6/23/2012	56.83504449	2: Black	1: Discharge to Home/ Self Care	0	0	5	1	0	0	1
+aggg5YYgYB8	1/9/2011	61.02121834	1: White	1: Discharge to Home/ Self Care	0	0	7	1	0	0	0
+aggg5YgBgYh	2/21/2011	56.44079398	6: Other	3: Discharged to organized home HSO	0	1	7	1	0	0	1
+aggg5YgRRll	3/22/2013	65.60438056	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	1
+aggg5YghhR8	1/27/2012	67.90417522	1: White	2: Discharge to SNF	0	1	6	0	0	0	0
+aggg5YhhYYl	1/7/2012	63.54551677	4: Hispanic	1: Discharge to Home/ Self Care	0	0	3	1	1	0	0
+aggg5YllhRY	5/22/2012	69.70020534	1: White	3: Discharged to organized home HSO	1	0	5	0	0	0	0
+aggg5g8JRgB	5/26/2011	54.64476386	1: White	1: Discharge to Home/ Self Care	0	0	9	1	0	0	0
+aggg5gBJRJR	7/12/2014	65.13347023	1: White	2: Discharge to SNF	1	0	5	1	1	0	0
+aggg5gBllJ8	6/12/2013	60.45722108	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggg5gY5YlB	9/26/2012	64.57494867	2: Black	1: Discharge to Home/ Self Care	0	1	4	0	0	0	0
+aggg5gYnhgY	4/7/2012	67.65229295	2: Black	1: Discharge to Home/ Self Care	0	0	8	1	0	0	0
+aggg5hJghlJ	9/20/2011	66.69130732	1: White	1: Discharge to Home/ Self Care	1	1	6	0	0	0	0
+aggg5hn5JnR	3/30/2013	66.50513347	6: Other	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+aggg5l8hgJ5	1/6/2012	62.57084189	1: White	1: Discharge to Home/ Self Care	1	0	4	1	1	0	0
+aggg5lBBhB5	4/14/2012	62.12731006	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+aggg5lBYnJg	8/3/2013	67.27446954	4: Hispanic	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+aggg5lRYn58	1/26/2011	50.32169747	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	1
+aggg5lY8BRh	1/29/2012	32.58590007	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+aggg5lYRBhR	4/7/2014	64.93360712	1: White	1: Discharge to Home/ Self Care	0	0	8	1	0	0	0
+aggg5lYRR8n	1/24/2012	64.1724846	1: White	3: Discharged to organized home HSO	0	0	1	1	0	0	0
+aggg5lnlJh8	2/4/2011	58.00136893	1: White	1: Discharge to Home/ Self Care	0	0	12	1	1	0	0
+aggg5n8lJYg	1/9/2014	51.33196441	4: Hispanic	1: Discharge to Home/ Self Care	0	0	9	1	0	0	0
+aggg5nB5nJg	8/25/2011	63.18959617	2: Black	1: Discharge to Home/ Self Care	0	1	7	1	0	0	0
+aggg5nBB8JJ	3/20/2013	64.34223135	2: Black	1: Discharge to Home/ Self Care	0	0	5	1	0	1	0
+aggg5nBBll8	4/6/2011	58.70225873	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	1	0	0
+aggg5nBY8B8	12/1/2013	63.41683778	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+aggg5nRgnBh	10/3/2011	66.46680356	4: Hispanic	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+aggg5nh8hBl	1/30/2011	60.38877481	1: White	1: Discharge to Home/ Self Care	0	0	8	1	0	0	0
+aggg885Yglg	11/15/2013	65.23477071	1: White	3: Discharged to organized home HSO	0	0	10	0	0	0	0
+aggg885YlJ8	9/7/2012	57.80971937	2: Black	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+aggg888B5ll	7/15/2011	66.17385353	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	1
+aggg888YhnY	11/24/2012	44.73921971	2: Black	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+aggg888hgYY	10/23/2011	66.45859001	2: Black	4: Left against medical advice or discontin	0	0	4	0	0	0	0
+aggg888n5Y8	7/6/2013	68.11498973	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggg88Jn8Yl	9/15/2011	66.54893908	1: White	1: Discharge to Home/ Self Care	1	1	2	1	0	0	1
+aggg88RBBBJ	5/6/2014	69.31416838	1: White	2: Discharge to SNF	0	0	5	1	0	0	0
+aggg88RRRJJ	3/13/2012	67.1321013	1: White	3: Discharged to organized home HSO	0	1	7	1	0	0	0
+aggg88RY5B5	3/21/2011	50.62286105	1: White	1: Discharge to Home/ Self Care	0	0	8	0	0	0	0
+aggg88RgJJn	9/16/2013	61.05954826	2: Black	1: Discharge to Home/ Self Care	1	1	9	0	0	0	0
+aggg88YRRYY	7/9/2012	44.51471595	2: Black	1: Discharge to Home/ Self Care	0	0	9	1	0	0	0
+aggg88g8J8g	9/18/2012	52.21355236	2: Black	3: Discharged to organized home HSO	0	1	4	1	1	0	0
+aggg88glhJB	1/31/2011	66.29705681	2: Black	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+aggg88h855J	4/10/2011	65.82614648	1: White	2: Discharge to SNF	0	1	5	1	1	0	0
+aggg88h8RlJ	7/2/2013	53.92197125	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+aggg88hRhlh	3/12/2012	48.82409309	2: Black	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+aggg88hRn55	6/20/2013	68.51471595	1: White	3: Discharged to organized home HSO	1	0	9	1	1	0	1
+aggg88lR8BR	4/28/2012	48.3559206	2: Black	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+aggg88lghnJ	10/29/2013	68.7008898	1: White	3: Discharged to organized home HSO	0	1	7	1	1	0	0
+aggg88llBRg	12/4/2013	66.72416153	1: White	5: Transfer to ICF	1	1	9	1	1	0	1
+aggg88lllgn	8/23/2014	58.13004791	2: Black	1: Discharge to Home/ Self Care	1	0	1	0	0	0	0
+aggg88n858g	5/12/2012	47.4661191	1: White	1: Discharge to Home/ Self Care	0	1	2	1	1	0	1
+aggg88nB5nh	7/28/2012	67.34017796	1: White	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
+aggg88nYR5Y	7/26/2012	67.35386721	1: White	1: Discharge to Home/ Self Care	1	1	8	1	1	0	0
+aggg8BRY5Rg	2/13/2011	56.07392197	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggg8R5JJJY	3/30/2012	67.50171116	1: White	1: Discharge to Home/ Self Care	0	1	1	0	0	0	0
+aggg8R8l5gY	3/30/2012	67.23613963	1: White	1: Discharge to Home/ Self Care	0	1	5	0	0	0	0
+aggg8R8lngg	8/26/2011	66.6036961	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggg8R8n88J	3/7/2011	59.22518823	2: Black	1: Discharge to Home/ Self Care	0	1	2	1	1	0	0
+aggg8RBhhlJ	11/5/2013	68.92265572	1: White	2: Discharge to SNF	0	1	5	1	0	0	0
+aggg8RBnghJ	3/29/2013	68.27652293	1: White	3: Discharged to organized home HSO	1	0	1	0	0	0	0
+aggg8RJ58nR	5/6/2013	68.56673511	1: White	3: Discharged to organized home HSO	0	0	3	1	0	0	0
+aggg8RJ5JJl	5/25/2011	66.58179329	1: White	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+aggg8RJh5n5	9/19/2012	66.32169747	1: White	1: Discharge to Home/ Self Care	1	0	11	1	0	0	0
+aggg8RJnhYn	6/15/2012	62.53798768	1: White	1: Discharge to Home/ Self Care	1	1	7	0	0	0	0
+aggg8RRB88h	2/17/2012	59.70978782	4: Hispanic	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+aggg8RRBn5g	6/19/2011	63.64134155	1: White	2: Discharge to SNF	0	0	4	1	0	0	0
+aggg8RRYhJh	4/25/2013	47.21971253	1: White	3: Discharged to organized home HSO	0	0	2	1	0	0	0
+aggg8RRln8J	1/31/2011	66.76796715	1: White	2: Discharge to SNF	0	0	4	1	0	0	0
+aggg8RYBhhR	6/12/2013	69.90554415	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+aggg8RYBhn5	10/27/2012	68.25735797	1: White	3: Discharged to organized home HSO	0	0	4	1	1	0	0
+aggg8RYYhhJ	5/28/2011	62.72142368	7: Unknown	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggg8RYnBhR	3/1/2012	67.20328542	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+aggg8RgBn88	12/1/2013	69.11978097	1: White	2: Discharge to SNF	1	1	8	1	0	0	1
+aggg8RgghYB	9/9/2011	67.6386037	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+aggg8RgngY8	6/20/2013	68.84052019	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggg8Rh5Rlh	6/9/2013	68.57768652	2: Black	1: Discharge to Home/ Self Care	0	0	10	1	0	0	0
+aggg8RlBJBg	11/22/2011	67.29089665	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggg8RlJnR5	8/7/2013	68.68172485	6: Other	3: Discharged to organized home HSO	0	0	3	0	0	0	1
+aggg8RlhBYl	11/29/2011	67.2991102	2: Black	3: Discharged to organized home HSO	0	1	4	1	0	0	0
+aggg8RnBRg8	4/8/2014	69.39904175	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+aggg8RnYgnl	2/16/2012	67.25530459	1: White	1: Discharge to Home/ Self Care	1	0	4	0	0	0	0
+aggg8Y58gRh	5/2/2011	66.71868583	3: Asian	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+aggg8Y5J85n	3/11/2011	60.07392197	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+aggg8Y5Y5gB	8/28/2012	68.03832991	1: White	2: Discharge to SNF	0	1	15	1	0	0	0
+aggg8Y5gJhh	6/12/2012	67.86858316	2: Black	1: Discharge to Home/ Self Care	0	1	3	0	0	0	0
+aggg8Y8JJhg	1/29/2013	68.37508556	1: White	1: Discharge to Home/ Self Care	0	0	13	0	0	0	0
+aggg8Y8Jng5	2/18/2011	64.22176591	1: White	3: Discharged to organized home HSO	1	0	3	1	0	0	0
+aggg8Y8Yl5R	3/27/2012	67.66872006	1: White	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+aggg8YBJYnl	3/9/2014	66.6091718	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	1
+aggg8YBJg5R	12/13/2012	68.30390144	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+aggg8YJ5gJ8	2/10/2011	54.57631759	1: White	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+aggg8YR8hgJ	5/6/2012	44.12046544	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+aggg8YRR8BB	10/2/2011	67.02258727	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggg8YRh8Y5	10/31/2011	67.4661191	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	1	0	0
+aggg8YRn8Jh	3/30/2012	62.11909651	2: Black	1: Discharge to Home/ Self Care	0	1	3	0	0	0	0
+aggg8YRnYJg	7/5/2012	59.44147844	1: White	1: Discharge to Home/ Self Care	1	1	2	0	0	0	1
+aggg8YY85nn	1/14/2012	63.9835729	2: Black	3: Discharged to organized home HSO	0	1	6	1	0	0	0
+aggg8YYng5R	3/22/2011	66.54072553	1: White	3: Discharged to organized home HSO	0	0	7	1	0	0	0
+aggg8Yg8lBl	2/7/2013	68.67351129	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggg8YgBgRJ	2/8/2012	67.67693361	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggg8YgnllR	8/8/2011	47.54277892	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	1
+aggg8YhB8l5	9/3/2013	69.16084873	1: White	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+aggg8YhYJgh	8/16/2012	68.12046544	1: White	4: Left against medical advice or discontin	0	1	4	0	0	0	0
+aggg8YhYnJY	4/21/2011	66.76249144	6: Other	1: Discharge to Home/ Self Care	1	1	4	0	0	0	0
+aggg8YhnBl5	2/14/2011	66.55715264	2: Black	1: Discharge to Home/ Self Care	0	0	8	0	0	0	0
+aggg8Yl8RlY	9/19/2011	67.19780972	1: White	1: Discharge to Home/ Self Care	1	0	2	0	1	0	1
+aggg8YlJgY5	5/5/2011	67.26351814	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+aggg8YlY5RY	11/17/2011	51.66872006	2: Black	3: Discharged to organized home HSO	0	0	5	0	0	0	0
+aggg8YlhYYR	7/10/2013	68.93360712	1: White	3: Discharged to organized home HSO	0	0	4	1	0	0	0
+aggg8YnRgR8	5/7/2011	67.25256674	1: White	1: Discharge to Home/ Self Care	1	0	4	0	0	0	1
+aggg8YnRnY5	9/19/2013	69.50581793	1: White	1: Discharge to Home/ Self Care	1	1	5	0	0	0	0
+aggg8YnggB5	2/20/2012	58.40109514	1: White	1: Discharge to Home/ Self Care	1	1	3	1	1	0	0
+aggg8YnhJgY	7/16/2013	49.82614648	1: White	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+agggB58RgJJ	6/22/2013	54.85831622	1: White	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+agggB5B8RJn	12/15/2011	64.99383984	1: White	3: Discharged to organized home HSO	1	0	9	1	1	0	0
+agggB5lh8YR	4/8/2012	58.78439425	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+agggB5nl8nR	1/20/2011	61.33880904	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggB88Jlgn	3/15/2011	53.66187543	6: Other	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggB88ggBJ	2/14/2011	57.54414784	1: White	2: Discharge to SNF	0	1	6	1	1	0	1
+agggB88llgB	5/19/2013	65.03216975	1: White	1: Discharge to Home/ Self Care	1	0	9	0	0	0	0
+agggB8l8lgJ	9/13/2013	68.79671458	1: White	1: Discharge to Home/ Self Care	0	0	9	0	0	0	0
+agggB8nR8lg	11/4/2011	69.22108145	1: White	1: Discharge to Home/ Self Care	0	0	10	0	0	0	0
+agggBBnY5Rn	3/8/2012	62.16290212	1: White	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+agggBJ58JhB	8/14/2012	69.93018481	1: White	2: Discharge to SNF	0	0	12	1	0	0	0
+agggBJBhngh	8/2/2014	55.26899384	1: White	1: Discharge to Home/ Self Care	1	0	16	1	0	0	0
+agggBJJgl8g	4/25/2011	68.84052019	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+agggBJg58gJ	6/11/2012	60.58590007	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggBJhlnl8	2/10/2011	53.44832307	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggBYh8lJJ	5/26/2011	66.71321013	1: White	1: Discharge to Home/ Self Care	0	0	13	1	0	0	0
+agggBYhlBJB	6/19/2011	69.12525667	1: White	1: Discharge to Home/ Self Care	0	0	9	1	0	0	0
+agggBg5858B	11/3/2011	69.34976044	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggBg5n5BY	9/16/2013	47.50718686	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggBg88YJY	6/6/2011	42.92402464	2: Black	1: Discharge to Home/ Self Care	1	0	5	0	0	0	0
+agggBg88Yg5	4/30/2011	68.81587954	2: Black	1: Discharge to Home/ Self Care	0	1	2	1	0	0	0
+agggBg8BY8Y	9/21/2011	65.52498289	1: White	2: Discharge to SNF	0	1	5	1	0	0	0
+agggBg8Bhng	5/11/2011	64.06570842	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agggBgBgnhg	2/22/2014	64.70910335	6: Other	3: Discharged to organized home HSO	0	0	4	0	0	0	0
+agggBgRBnlB	3/8/2011	58.7652293	1: White	2: Discharge to SNF	0	0	7	1	0	0	0
+agggBgRlnRY	5/26/2011	68.82956879	2: Black	1: Discharge to Home/ Self Care	1	0	6	0	0	0	0
+agggBggJJhg	10/13/2011	69.64818617	2: Black	2: Discharge to SNF	1	1	12	1	0	0	0
+agggBggRR85	5/20/2011	65.72210815	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+agggBggghlg	2/6/2011	68.91444216	1: White	3: Discharged to organized home HSO	0	1	5	0	0	0	0
+agggBggnYBh	2/13/2012	69.96030116	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggBggnnYg	2/12/2011	68.93086927	2: Black	3: Discharged to organized home HSO	1	0	2	1	0	0	0
+agggBghBBgR	2/7/2012	63.43874059	2: Black	1: Discharge to Home/ Self Care	0	1	10	1	0	0	0
+agggBghgnYB	9/26/2011	65.88637919	1: White	3: Discharged to organized home HSO	0	0	8	1	1	0	0
+agggBgn5h5l	7/24/2012	64.08761123	1: White	1: Discharge to Home/ Self Care	1	1	6	1	0	0	0
+agggBgng85B	6/21/2014	62.4421629	1: White	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+agggBhBn85h	9/23/2011	54.21218344	1: White	1: Discharge to Home/ Self Care	1	1	3	1	0	0	0
+agggBhJJBgl	1/7/2013	46.69952088	2: Black	1: Discharge to Home/ Self Care	0	0	8	1	0	1	0
+agggBhJYB5B	3/7/2012	66.49965777	1: White	1: Discharge to Home/ Self Care	1	0	3	1	1	0	0
+agggBhnBRJR	1/24/2011	68.75017112	1: White	1: Discharge to Home/ Self Care	1	0	5	0	1	0	1
+agggBlJR5hh	4/28/2012	69.66461328	1: White	1: Discharge to Home/ Self Care	1	0	5	0	0	0	0
+agggBllgghR	3/31/2012	69.59616701	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+agggBllh8JJ	6/17/2012	63.59479808	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+agggBnJY8B8	10/17/2013	62.04517454	1: White	1: Discharge to Home/ Self Care	1	1	6	0	0	0	0
+agggBngY5hJ	8/17/2013	58.33264887	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agggJ5BYg8B	10/7/2011	47.46338125	2: Black	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+agggJ5J8h8l	10/25/2013	58.41204654	1: White	2: Discharge to SNF	0	0	5	1	0	0	0
+agggJ5h8B5g	5/17/2011	64.75564682	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agggJ5hg88h	5/21/2012	56.27926078	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggJ855hYg	9/10/2011	57.24024641	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agggJ88B5YY	7/24/2012	57.35797399	1: White	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+agggJ8JlhhJ	4/20/2014	69.87542779	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggJ8Yg8J5	1/23/2013	39.38124572	2: Black	1: Discharge to Home/ Self Care	0	0	10	0	0	0	0
+agggJ8gJg55	9/5/2011	69.01300479	2: Black	1: Discharge to Home/ Self Care	1	0	1	1	0	0	0
+agggJ8hlnJg	5/10/2013	50.12183436	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggJ8lY8gB	12/29/2011	65.56605065	2: Black	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggJ8lYnlY	7/20/2012	67.69883641	1: White	1: Discharge to Home/ Self Care	0	0	7	0	0	0	1
+agggJ8nJJJ5	1/11/2013	63.08281999	2: Black	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+agggJ8nJhYR	4/2/2013	64.77481177	1: White	2: Discharge to SNF	0	0	1	0	0	0	0
+agggJ8nggR5	3/7/2011	68.31759069	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggJBJB8Bh	4/21/2011	56.94729637	1: White	1: Discharge to Home/ Self Care	1	0	6	0	0	0	0
+agggJBYJnR8	10/12/2011	64.31485284	1: White	3: Discharged to organized home HSO	0	1	5	0	0	1	0
+agggJBghn58	3/21/2012	64.71731691	2: Black	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+agggJBh8h8g	8/24/2012	67.03901437	1: White	1: Discharge to Home/ Self Care	1	1	7	1	0	0	0
+agggJJJ55gJ	11/7/2012	68.52566735	2: Black	2: Discharge to SNF	0	0	4	1	0	0	0
+agggJJR5hgg	7/9/2013	69.59069131	1: White	1: Discharge to Home/ Self Care	1	0	1	0	0	0	1
+agggJJYlJYl	4/1/2013	69.53593429	1: White	2: Discharge to SNF	1	1	11	1	0	0	0
+agggJJh5gYn	10/29/2012	60.6899384	1: White	2: Discharge to SNF	1	1	8	0	1	0	0
+agggJJhn8BB	12/17/2013	66.31348392	1: White	3: Discharged to organized home HSO	1	1	10	1	0	0	0
+agggJJll5Yh	8/10/2012	65.51676934	1: White	1: Discharge to Home/ Self Care	1	1	9	0	0	0	1
+agggJJnJY5Y	5/5/2012	57.12251882	1: White	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+agggJR5JRJg	6/24/2012	66.34086242	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggJR5YghJ	1/27/2013	53.47296372	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggJR8BRJl	9/12/2011	64.76933607	1: White	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
+agggJR8BYng	5/30/2012	67.92334018	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggJRBB85Y	11/13/2012	66.85010267	2: Black	2: Discharge to SNF	0	0	4	1	0	0	0
+agggJRBYJhR	1/14/2013	67.50171116	1: White	1: Discharge to Home/ Self Care	0	1	1	1	0	0	0
+agggJRRlY58	12/15/2013	65.14715948	1: White	3: Discharged to organized home HSO	0	0	7	1	0	0	0
+agggJRYghhR	3/15/2013	44.71184121	2: Black	1: Discharge to Home/ Self Care	0	1	5	0	0	0	0
+agggJRlJ5YY	6/15/2011	56.75017112	2: Black	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+agggJRlJJ8h	5/9/2013	61.4017796	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggJRlhJnl	4/29/2011	52.23271732	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggJRllYlJ	4/14/2013	49.90554415	2: Black	1: Discharge to Home/ Self Care	0	0	5	1	1	0	1
+agggJRln85n	10/6/2012	51.18685832	2: Black	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggJY58RYR	5/29/2013	66.76796715	2: Black	3: Discharged to organized home HSO	0	1	1	1	0	0	0
+agggJY85nYl	6/21/2011	46.9596167	2: Black	1: Discharge to Home/ Self Care	1	1	3	0	0	0	0
+agggJY8Bl88	12/19/2011	45.2238193	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggJYBJghh	6/1/2013	59.18959617	2: Black	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggJYBg8hg	10/29/2012	59.34839151	2: Black	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agggJYBgYYB	9/24/2013	61.86447639	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggJYBn5lY	6/4/2011	46.2696783	2: Black	1: Discharge to Home/ Self Care	1	0	8	1	0	0	1
+agggJYJ5Yl5	9/19/2013	66.63928816	1: White	1: Discharge to Home/ Self Care	1	0	8	1	0	0	0
+agggJYJ5lgJ	6/1/2011	69.07323751	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggJYJRlnn	8/7/2011	52.61875428	2: Black	1: Discharge to Home/ Self Care	0	0	9	1	0	0	0
+agggJYJYB58	11/2/2012	57.97399042	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	1	0	0
+agggJYRghRl	5/23/2013	45.96851472	1: White	3: Discharged to organized home HSO	0	0	7	1	0	0	0
+agggJYgBhlJ	12/23/2012	43.62491444	1: White	4: Left against medical advice or discontin	0	0	3	0	0	0	0
+agggJYhgYJ8	1/3/2012	66.09993155	1: White	3: Discharged to organized home HSO	1	0	5	1	0	0	0
+agggJYhnRY5	8/3/2013	68.79123888	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggJYn55YJ	4/8/2012	65.10609172	2: Black	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+agggJYnRBhh	8/27/2012	54.66940452	2: Black	1: Discharge to Home/ Self Care	0	0	10	0	0	0	0
+agggJg8gRBn	3/6/2013	61.65913758	4: Hispanic	1: Discharge to Home/ Self Care	0	0	15	1	0	0	1
+agggJglRn5n	9/13/2011	68.7008898	1: White	1: Discharge to Home/ Self Care	0	0	7	1	0	0	0
+agggJgnhYB8	12/17/2013	40.45995893	1: White	1: Discharge to Home/ Self Care	0	0	4	1	1	0	0
+agggJhlJglh	6/25/2012	58.73511294	1: White	1: Discharge to Home/ Self Care	0	1	1	0	1	0	0
+agggJhlYhJ5	2/8/2011	67.01437372	1: White	3: Discharged to organized home HSO	1	1	10	1	0	1	0
+agggJhlYn88	5/25/2011	65.10061602	2: Black	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+agggJhngYnB	5/20/2011	68.63244353	1: White	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+agggJlhB8lh	10/3/2013	66.64202601	2: Black	3: Discharged to organized home HSO	1	1	5	1	1	1	0
+agggJnYhR5l	12/28/2011	65.49212868	1: White	1: Discharge to Home/ Self Care	0	1	8	0	0	0	0
+agggJnn8BgR	5/1/2012	54.4257358	2: Black	1: Discharge to Home/ Self Care	0	0	14	0	0	0	0
+agggY55JJ5l	9/12/2012	69.14989733	1: White	1: Discharge to Home/ Self Care	1	1	4	0	0	0	0
+agggY55RRhn	5/25/2011	63.26078029	1: White	3: Discharged to organized home HSO	0	1	4	1	1	0	0
+agggY55YYRn	1/31/2011	67.23887748	2: Black	3: Discharged to organized home HSO	0	0	10	0	0	0	0
+agggY5BBn58	2/12/2013	69.87816564	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggY5BJYYl	9/21/2011	67.97262149	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agggY5Blhgg	10/26/2011	68.35865845	1: White	1: Discharge to Home/ Self Care	1	0	2	0	0	0	0
+agggY5JJ5BJ	4/22/2011	67.79739904	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggY5R5RRR	5/8/2013	69.7412731	2: Black	1: Discharge to Home/ Self Care	0	1	7	1	0	0	0
+agggY5RBgYn	12/6/2011	65.48939083	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+agggY5RY5hn	12/14/2012	69.77960301	1: White	3: Discharged to organized home HSO	1	1	2	1	0	0	0
+agggY5RYR55	4/5/2011	61.5468857	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	1
+agggY5Y85nh	8/22/2011	41.82340862	1: White	1: Discharge to Home/ Self Care	0	0	6	1	1	0	0
+agggY5YBRgh	5/23/2011	67.65229295	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggY5YRglR	1/26/2012	68.75838467	1: White	1: Discharge to Home/ Self Care	1	0	11	0	0	0	0
+agggY5gBRYB	1/30/2014	67.92060233	1: White	1: Discharge to Home/ Self Care	1	0	6	0	0	0	0
+agggY5gBYgR	7/7/2011	51.09377139	2: Black	3: Discharged to organized home HSO	1	1	9	1	0	0	0
+agggY5hB8lB	1/12/2013	69.48391513	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggY5hBll8	6/12/2014	68.31485284	3: Asian	3: Discharged to organized home HSO	0	0	20	1	0	1	0
+agggY5hYJnB	9/10/2011	68.03011636	1: White	1: Discharge to Home/ Self Care	1	0	2	0	0	0	0
+agggY5hgBnJ	2/26/2013	69.64544832	1: White	3: Discharged to organized home HSO	1	1	9	0	1	0	0
+agggY5lnJh5	7/8/2011	67.87953457	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggY5nBBng	7/26/2013	69.93839836	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agggY5nRJln	2/9/2011	67.59206023	1: White	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+agggY5nYB8n	1/6/2012	64.36960986	2: Black	1: Discharge to Home/ Self Care	0	1	4	0	0	0	0
+agggYB55BlJ	9/9/2011	67.70704997	1: White	1: Discharge to Home/ Self Care	1	1	3	1	0	0	0
+agggYB5BgB8	3/15/2011	63.03901437	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+agggYB5RJR5	5/21/2013	69.44284737	1: White	3: Discharged to organized home HSO	0	1	12	1	0	0	0
+agggYBB8lnR	8/6/2012	69.01848049	1: White	3: Discharged to organized home HSO	1	0	7	1	0	0	0
+agggYBBYJ8h	3/4/2011	59.50992471	1: White	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggYBJ8R55	3/16/2011	56.79123888	2: Black	1: Discharge to Home/ Self Care	0	0	10	1	1	0	0
+agggYBJRg8J	6/29/2012	68.6844627	2: Black	2: Discharge to SNF	0	0	4	0	0	0	0
+agggYBJRggY	3/16/2011	64	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agggYBJln5n	4/1/2011	54.87474333	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggYBRBngl	1/11/2013	68.94729637	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggYBRY5g8	1/21/2011	63.38672142	6: Other	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+agggYBRghBh	2/27/2011	67.08008214	1: White	3: Discharged to organized home HSO	1	0	7	1	0	1	0
+agggYBRh8hJ	4/19/2011	67.2936345	1: White	1: Discharge to Home/ Self Care	0	0	1	0	0	0	0
+agggYBYRRhR	3/8/2013	69.33059548	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggYBYlBBY	4/2/2012	57.04312115	1: White	3: Discharged to organized home HSO	0	1	11	0	0	0	0
+agggYBYlJhR	10/7/2012	68.69267625	1: White	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggYBg5gng	7/11/2013	69.20465435	1: White	4: Left against medical advice or discontin	1	0	4	0	0	0	0
+agggYBgB8JY	4/22/2012	68.42162902	1: White	1: Discharge to Home/ Self Care	1	1	9	1	0	0	1
+agggYBgJR5h	9/20/2011	55.32922656	1: White	2: Discharge to SNF	0	1	3	0	0	0	0
+agggYBgYgng	10/4/2013	69.9247091	1: White	1: Discharge to Home/ Self Care	0	1	7	0	0	0	0
+agggYBggllR	12/20/2011	68.23819302	1: White	3: Discharged to organized home HSO	0	0	6	0	0	0	0
+agggYBh8hR8	10/8/2012	65.94387406	1: White	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+agggYBlRggg	5/14/2013	69.52224504	1: White	1: Discharge to Home/ Self Care	0	1	4	1	1	0	0
+agggYBlgYn8	6/9/2013	69.33059548	2: Black	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+agggYBnBJBl	2/21/2013	66.45037645	2: Black	3: Discharged to organized home HSO	0	1	3	1	0	0	0
+agggYBnBlRY	6/17/2013	64.7063655	1: White	3: Discharged to organized home HSO	1	0	7	0	0	0	0
+agggYBnJRnl	3/15/2013	69.28405202	1: White	1: Discharge to Home/ Self Care	1	0	4	0	0	0	0
+agggYBnYR5B	3/18/2012	45.93839836	1: White	1: Discharge to Home/ Self Care	1	1	6	1	0	0	0
+agggYBnhlgY	7/30/2013	69.65913758	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+agggYBnlghJ	1/8/2011	64.75290897	2: Black	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+agggYJ585Yh	12/11/2011	69.00479124	2: Black	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggYJ5YgB5	5/24/2011	66.21218344	1: White	1: Discharge to Home/ Self Care	0	1	6	0	0	0	0
+agggYJ5Yl8h	5/31/2012	64.11498973	2: Black	1: Discharge to Home/ Self Care	1	1	8	0	0	0	0
+agggYJ8hYRY	5/10/2011	53.71663244	2: Black	3: Discharged to organized home HSO	1	0	8	1	1	0	0
+agggYJ8nlhl	2/9/2011	41.14989733	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agggYJBl5gg	12/20/2012	45.49760438	2: Black	1: Discharge to Home/ Self Care	1	1	2	1	0	0	0
+agggYJBlB5B	1/21/2012	69.2128679	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+agggYJJBRBJ	11/26/2012	69.97946612	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agggYJJYBJg	11/28/2012	69.65913758	1: White	1: Discharge to Home/ Self Care	1	0	11	1	1	1	0
+agggYJJYRln	2/18/2011	66.31895962	1: White	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+agggYJJg5YY	11/13/2011	69.41820671	1: White	3: Discharged to organized home HSO	0	0	2	1	0	0	0
+agggYJJgRB8	10/18/2011	47.4715948	2: Black	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggYJJhgnB	6/19/2011	68.59411362	1: White	1: Discharge to Home/ Self Care	0	1	1	1	0	0	0
+agggYJRBghn	1/9/2013	69.99589322	1: White	3: Discharged to organized home HSO	0	0	7	1	1	0	0
+agggYJRBgnR	3/25/2013	65.42642026	1: White	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agggYJRJ85R	3/9/2012	68.98015058	1: White	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+agggYJY8RR8	3/9/2011	66.04791239	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggYJYBgnB	8/8/2013	56.47091034	1: White	1: Discharge to Home/ Self Care	1	1	6	0	0	0	0
+agggYJgYnhB	10/17/2011	68.95277207	1: White	3: Discharged to organized home HSO	0	1	2	0	1	0	0
+agggYJghYJ8	2/13/2011	48.04380561	1: White	1: Discharge to Home/ Self Care	0	1	4	0	0	0	0
+agggYJgnYgn	6/30/2012	69.26488706	1: White	1: Discharge to Home/ Self Care	0	0	7	1	0	0	0
+agggYJhBJBg	4/17/2011	53.30047912	1: White	3: Discharged to organized home HSO	0	1	5	1	0	0	0
+agggYJhJ5g8	2/19/2012	69.14442163	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggYJlYh5n	10/9/2011	68.92265572	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggYJlYnBl	3/26/2011	67.96440794	1: White	1: Discharge to Home/ Self Care	1	1	4	1	0	0	0
+agggYJlYnYB	12/25/2012	69.22108145	2: Black	3: Discharged to organized home HSO	0	0	5	1	0	0	0
+agggYJnhgYR	3/23/2012	65.50308008	1: White	3: Discharged to organized home HSO	0	0	3	0	0	0	0
+agggYRhBRYR	2/16/2012	67.77002053	1: White	1: Discharge to Home/ Self Care	0	1	8	0	0	0	0
+agggYRhYB5h	1/10/2012	62.63381246	1: White	1: Discharge to Home/ Self Care	0	1	3	0	0	0	0
+agggYRllJB8	3/10/2012	68.03011636	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	1
+agggYY5BB5l	8/22/2011	67.76180698	1: White	3: Discharged to organized home HSO	0	1	8	1	1	0	0
+agggYY8l5gh	12/11/2012	58.29705681	2: Black	1: Discharge to Home/ Self Care	1	1	3	1	0	0	0
+agggYYB8Rhn	4/12/2012	63.78097194	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	1
+agggYYB8l5Y	7/15/2012	64.0054757	2: Black	3: Discharged to organized home HSO	1	0	7	1	0	0	0
+agggYYBRJlY	1/25/2012	67.77275839	1: White	1: Discharge to Home/ Self Care	1	1	6	1	0	0	0
+agggYYBY5gJ	11/1/2012	68.54483231	2: Black	3: Discharged to organized home HSO	0	0	2	0	1	0	0
+agggYYBhnhn	5/18/2012	47.4715948	4: Hispanic	1: Discharge to Home/ Self Care	0	0	1	0	0	0	0
+agggYYBnlJg	4/22/2011	38.03148528	3: Asian	1: Discharge to Home/ Self Care	1	1	7	1	1	1	0
+agggYYBnnRl	12/17/2011	59.93702943	2: Black	3: Discharged to organized home HSO	0	0	4	0	0	0	0
+agggYYJ8RgY	7/9/2013	44.48459959	2: Black	1: Discharge to Home/ Self Care	0	1	2	1	0	0	0
+agggYYJlg8Y	3/16/2013	40.65708419	1: White	3: Discharged to organized home HSO	0	0	1	1	0	0	1
+agggYYJnJh8	6/1/2013	69.32238193	1: White	2: Discharge to SNF	0	0	2	0	0	0	0
+agggYYR5lJl	2/22/2011	66.82546201	1: White	1: Discharge to Home/ Self Care	1	0	9	0	0	0	0
+agggYYR5n88	8/30/2011	57.77686516	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggYYRlBlh	5/10/2011	62.87200548	1: White	1: Discharge to Home/ Self Care	0	1	6	0	0	0	0
+agggYYYYBh8	7/20/2012	51.44147844	2: Black	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+agggYYYYRhl	5/11/2012	60.33675565	1: White	3: Discharged to organized home HSO	1	1	7	1	0	0	0
+agggYYhJBn8	10/23/2012	63.13483915	2: Black	1: Discharge to Home/ Self Care	0	1	5	0	0	0	0
+agggYYhJln5	4/6/2011	50.99794661	2: Black	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggYYhngB8	8/10/2011	59.55920602	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggYYlY5JR	8/31/2013	62.90212183	1: White	2: Discharge to SNF	0	0	3	0	0	0	0
+agggYYlnhBJ	2/6/2014	68.32306639	1: White	1: Discharge to Home/ Self Care	1	1	5	1	1	0	1
+agggYg85YY8	12/2/2012	66.17111567	1: White	1: Discharge to Home/ Self Care	1	0	11	1	1	0	0
+agggYg8h5g5	4/11/2011	53.98220397	2: Black	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+agggYgR85Bl	3/11/2011	60.48186174	2: Black	3: Discharged to organized home HSO	0	0	7	0	0	0	0
+agggYgRh858	8/14/2012	69.52498289	1: White	3: Discharged to organized home HSO	1	0	12	1	1	1	0
+agggYgRn5g5	6/29/2011	61.48939083	3: Asian	3: Discharged to organized home HSO	0	0	6	0	0	0	0
+agggYgYBBY8	1/19/2013	69.908282	1: White	3: Discharged to organized home HSO	0	0	3	0	0	0	0
+agggYgYJ8hR	12/11/2011	69.08145106	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggYh5RJBB	4/2/2012	68.94455852	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+agggYhBJBhl	9/17/2011	69.02669405	1: White	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+agggYhh5BJB	1/6/2012	68.6844627	3: Asian	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+agggYhhJBYh	3/5/2011	67.71252567	1: White	1: Discharge to Home/ Self Care	0	0	7	1	0	0	0
+agggYhlB5nl	6/4/2012	65.14715948	2: Black	2: Discharge to SNF	0	0	2	0	0	0	0
+agggYlJR5YY	4/12/2013	69.87542779	1: White	1: Discharge to Home/ Self Care	0	1	7	0	0	0	0
+agggYlJhR5h	3/24/2013	69.88911704	1: White	1: Discharge to Home/ Self Care	0	0	19	1	0	1	0
+agggYlh8hnh	6/4/2012	69.06502396	5: North American Native	1: Discharge to Home/ Self Care	0	1	15	1	0	0	0
+agggYlhRRBR	7/10/2011	66.13552361	2: Black	1: Discharge to Home/ Self Care	0	1	7	0	0	0	0
+agggYlhY5nl	5/26/2011	47.77549624	2: Black	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggYlhgYhR	1/2/2011	67.60027379	1: White	3: Discharged to organized home HSO	1	0	5	1	1	0	0
+agggYlhllRB	8/10/2011	57.45379877	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggYllJhgl	5/22/2011	55.72621492	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggYllRhY8	7/17/2012	69.14168378	1: White	3: Discharged to organized home HSO	0	1	7	1	0	0	0
+agggg5B8BlY	12/14/2011	62.98973306	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+agggg5BhhnR	7/15/2012	52.09856263	1: White	3: Discharged to organized home HSO	0	0	2	1	0	0	0
+agggg855B55	4/26/2012	51.60574949	1: White	3: Discharged to organized home HSO	0	1	4	1	1	0	0
+agggg88nlYB	8/11/2011	57.68377823	1: White	2: Discharge to SNF	0	0	3	0	0	0	0
+agggg8B8Yng	2/7/2012	60.90075291	1: White	3: Discharged to organized home HSO	0	0	4	1	0	0	0
+agggg8R5gnl	2/16/2013	57.84257358	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agggg8hh5h8	6/2/2011	67.06639288	2: Black	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
+agggg8hn5h5	8/12/2012	43.84394251	1: White	3: Discharged to organized home HSO	0	1	3	1	0	0	1
+agggg8nRlR8	4/26/2011	57.50581793	1: White	3: Discharged to organized home HSO	0	0	6	1	0	0	0
+agggg8nYhhg	4/27/2011	63.90691307	2: Black	3: Discharged to organized home HSO	0	1	3	1	0	1	0
+agggg8nglnY	5/5/2011	65.23477071	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggggBg88gg	12/3/2012	54.54893908	1: White	1: Discharge to Home/ Self Care	0	0	10	1	0	0	0
+aggggBgh5ll	10/30/2011	57.66461328	6: Other	1: Discharge to Home/ Self Care	0	0	7	0	0	0	1
+aggggBnlhl8	2/2/2012	67.68788501	1: White	1: Discharge to Home/ Self Care	0	1	2	1	0	0	0
+aggggJB885Y	1/10/2012	50.87748118	4: Hispanic	3: Discharged to organized home HSO	1	0	9	0	0	0	0
+aggggJBRR8J	9/1/2013	69.36618754	1: White	1: Discharge to Home/ Self Care	1	1	10	1	0	0	1
+aggggJYBlBh	9/6/2011	60.56399726	1: White	1: Discharge to Home/ Self Care	1	1	6	1	0	0	0
+aggggJlR5Y5	2/7/2011	64.61327858	1: White	3: Discharged to organized home HSO	1	0	7	1	0	0	0
+aggggJnRBh8	2/25/2013	64.10403833	6: Other	3: Discharged to organized home HSO	0	1	7	1	0	0	0
+aggggRB5hlg	1/3/2011	66.39288159	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggggRRBlBB	4/13/2011	55.45790554	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	1
+aggggYYRnBB	6/23/2013	54.2696783	2: Black	3: Discharged to organized home HSO	0	0	5	0	0	0	0
+aggggYlnRgg	2/17/2011	66.79534565	3: Asian	3: Discharged to organized home HSO	0	0	5	1	0	0	0
+aggggYnh8Jn	2/26/2011	57.93292266	2: Black	3: Discharged to organized home HSO	0	0	4	1	0	0	0
+aggggg5JR5R	9/19/2013	67.92060233	1: White	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggggYghhY	4/5/2011	68.80492813	1: White	3: Discharged to organized home HSO	0	1	1	1	0	0	0
+agggggg5nBJ	10/7/2012	62.04517454	1: White	1: Discharge to Home/ Self Care	0	0	10	0	0	0	0
+aggggggJ5JY	12/19/2011	62.02053388	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggghRg855	6/12/2012	69.00752909	1: White	3: Discharged to organized home HSO	0	1	4	1	0	0	0
+agggghYhBln	5/24/2011	68.76112252	1: White	1: Discharge to Home/ Self Care	0	1	5	0	0	0	0
+agggghg8RYh	12/7/2012	61.5468857	1: White	1: Discharge to Home/ Self Care	1	0	3	1	1	0	0
+agggghhJ8R8	2/20/2011	60.83504449	2: Black	3: Discharged to organized home HSO	0	0	11	0	0	0	0
+agggghngh5B	8/13/2012	58.20670773	1: White	2: Discharge to SNF	0	1	6	0	0	0	0
+aggggl5hYRh	9/15/2011	52.48459959	2: Black	1: Discharge to Home/ Self Care	1	0	7	0	1	0	0
+aggggl8Jl58	8/5/2013	51.84668036	1: White	3: Discharged to organized home HSO	0	0	1	1	0	0	0
+agggglYhgRY	5/25/2013	65.3853525	2: Black	1: Discharge to Home/ Self Care	1	1	6	1	0	0	0
+agggglYhhJY	6/26/2011	61.85078713	2: Black	2: Discharge to SNF	0	0	2	0	0	0	0
+agggglYl8nJ	11/13/2012	65.67282683	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggglghY5J	8/31/2012	69.79055442	1: White	2: Discharge to SNF	0	0	2	0	0	0	0
+agggglgnlnl	11/28/2011	56.78302533	6: Other	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggglhBgYg	3/28/2011	67.74537988	1: White	1: Discharge to Home/ Self Care	1	1	4	0	0	0	0
+agggglhBhlY	3/16/2011	57.33059548	1: White	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+agggglnYnnB	1/1/2012	65.83709788	1: White	3: Discharged to organized home HSO	0	0	9	1	0	1	0
+aggggnBYhJR	12/15/2012	68.63518138	2: Black	3: Discharged to organized home HSO	0	0	7	0	0	0	0
+aggggnYnhgR	3/23/2014	67.78644764	1: White	1: Discharge to Home/ Self Care	1	0	12	0	0	1	0
+aggggngJBgB	7/11/2013	69.96577687	1: White	3: Discharged to organized home HSO	1	0	6	1	0	0	0
+aggggngR5hl	1/4/2012	67.37029432	1: White	3: Discharged to organized home HSO	1	0	10	1	1	0	1
+aggggnnY858	1/29/2013	60.91170431	1: White	1: Discharge to Home/ Self Care	1	0	7	0	0	0	0
+agggh5Bghgh	3/1/2011	68.25188227	1: White	1: Discharge to Home/ Self Care	0	1	3	1	0	0	1
+agggh5JRlR8	12/2/2011	69.18822724	1: White	1: Discharge to Home/ Self Care	1	0	7	1	1	0	0
+agggh5RJR5J	8/6/2012	69.81519507	1: White	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agggh5Y5BgB	12/15/2011	63.03080082	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agggh5Yg585	1/11/2011	49.93566051	2: Black	1: Discharge to Home/ Self Care	0	0	8	1	0	0	0
+agggh5gBBJ8	9/3/2011	65.67556468	2: Black	1: Discharge to Home/ Self Care	0	1	8	1	1	0	0
+agggh5gBnn5	10/18/2011	64.71184121	1: White	3: Discharged to organized home HSO	1	0	5	1	0	0	1
+agggh5hJRg5	6/20/2012	64.73648186	2: Black	3: Discharged to organized home HSO	1	1	12	0	0	0	0
+agggh5hhgYl	12/4/2011	45.7522245	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggh5n85nB	9/16/2011	67.52361396	2: Black	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+agggh5nBR85	1/24/2012	64.41889117	2: Black	2: Discharge to SNF	0	0	4	0	0	0	0
+agggh8BgRnJ	12/11/2011	57.04312115	2: Black	1: Discharge to Home/ Self Care	1	1	8	1	0	0	0
+agggh8JYJJn	7/14/2012	56.96372348	1: White	2: Discharge to SNF	1	1	6	1	0	0	0
+agggh8Y5gYJ	10/7/2011	62.770705	2: Black	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agggh8l8Y8l	11/25/2014	68.40793977	1: White	1: Discharge to Home/ Self Care	1	0	2	0	0	1	1
+aggghB5Jl85	7/10/2013	59.61943874	1: White	1: Discharge to Home/ Self Care	0	1	2	1	1	0	0
+aggghB8B5lY	7/15/2013	53.24024641	1: White	3: Discharged to organized home HSO	0	1	1	1	0	0	0
+aggghB8RYB5	8/15/2011	53.3798768	2: Black	1: Discharge to Home/ Self Care	0	1	2	0	1	0	0
+aggghB8hJYJ	2/24/2011	64.25462012	1: White	1: Discharge to Home/ Self Care	1	1	3	1	0	0	0
+aggghBBJYnl	8/13/2013	38.96783025	1: White	5: Transfer to ICF	0	0	11	0	0	0	0
+aggghBBYggB	5/12/2011	62.10814511	2: Black	3: Discharged to organized home HSO	0	0	6	1	1	0	0
+aggghBBYlRh	11/19/2012	63.21971253	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggghBJBBnR	8/28/2011	67.94798084	1: White	3: Discharged to organized home HSO	0	0	6	1	0	0	0
+aggghBJBRng	4/1/2013	68.39425051	1: White	5: Transfer to ICF	0	0	3	0	0	0	0
+aggghBJYgBh	2/22/2012	69.83162218	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+aggghBJYnJn	7/16/2011	63.63586585	1: White	3: Discharged to organized home HSO	0	0	4	1	0	0	0
+aggghBRgnnh	5/22/2011	63.54277892	2: Black	1: Discharge to Home/ Self Care	0	0	6	1	1	1	0
+aggghBYgJR5	6/27/2012	53.73305955	1: White	3: Discharged to organized home HSO	0	1	4	1	0	0	0
+aggghBgJhl8	10/9/2013	63.24435318	2: Black	3: Discharged to organized home HSO	0	0	1	1	1	0	0
+aggghBhh8J5	4/8/2012	66.03969884	1: White	1: Discharge to Home/ Self Care	1	1	1	1	0	0	0
+aggghBhhYBn	6/25/2013	42.21218344	1: White	2: Discharge to SNF	1	0	4	0	0	0	0
+aggghJYB8JB	2/28/2012	50.78986995	2: Black	1: Discharge to Home/ Self Care	0	0	12	1	0	0	0
+aggghJh8BgB	10/20/2013	68.65708419	2: Black	3: Discharged to organized home HSO	0	0	2	0	0	0	0
+aggghJnRnRR	8/1/2012	65.71389459	1: White	3: Discharged to organized home HSO	0	0	3	1	0	0	1
+aggghRBhh5R	4/2/2013	38.37645448	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+aggghRJhYJY	5/3/2013	36.05749487	1: White	3: Discharged to organized home HSO	0	1	1	1	0	0	0
+aggghRRYJYl	4/20/2012	48.73100616	2: Black	3: Discharged to organized home HSO	0	0	14	0	0	0	1
+aggghRhJ5gJ	11/6/2012	62.85010267	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggghRl8Y8B	1/26/2013	69.8973306	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggghRnh8nY	2/7/2011	52.88706366	2: Black	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+aggghYB85Yg	3/24/2011	61.27583847	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+aggghYBJlgl	8/9/2012	61.47843943	1: White	3: Discharged to organized home HSO	0	1	6	1	1	0	0
+aggghYgYgBh	2/25/2012	66.40109514	1: White	1: Discharge to Home/ Self Care	0	0	3	1	1	0	0
+aggghYghnnB	12/3/2012	68.11498973	2: Black	3: Discharged to organized home HSO	0	1	10	1	0	0	0
+aggghYlYlRh	6/21/2011	32.64065708	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	1	0	0
+aggghYnh8Bh	2/13/2013	40.81587954	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggghg5RYlB	12/22/2011	45.01848049	1: White	1: Discharge to Home/ Self Care	0	1	2	1	0	0	0
+aggghgJJJhh	12/31/2013	63.4770705	1: White	1: Discharge to Home/ Self Care	0	1	10	1	1	1	0
+aggghgRYlnY	6/10/2014	57.49760438	2: Black	3: Discharged to organized home HSO	1	0	18	1	0	0	0
+aggghgglgh8	5/20/2011	65.51676934	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggghgnRBgJ	11/4/2013	59.8384668	1: White	2: Discharge to SNF	0	0	3	0	0	0	0
+aggghgnY88B	3/30/2012	41.77960301	2: Black	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+aggghh5gnhg	3/8/2012	57.01848049	2: Black	5: Transfer to ICF	0	0	2	1	0	0	0
+aggghh8l8Y5	1/16/2012	68.03559206	2: Black	2: Discharge to SNF	0	1	10	1	1	1	0
+aggghhBhhJg	9/13/2011	66.13826147	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggghhRn85h	7/20/2012	41.65913758	2: Black	1: Discharge to Home/ Self Care	1	1	11	1	0	0	0
+aggghhhnlY5	2/15/2013	60.04380561	2: Black	2: Discharge to SNF	0	1	9	1	1	0	0
+aggghhlJ5Rh	6/27/2013	66.60095825	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	1
+aggghhn8JBR	1/9/2012	60.678987	1: White	4: Left against medical advice or discontin	0	1	5	1	1	0	0
+aggghhnRglJ	2/1/2012	66.86926763	2: Black	1: Discharge to Home/ Self Care	0	0	8	1	1	0	0
+aggghl5l8JJ	12/13/2013	69.30321698	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+aggghl5nn5n	11/14/2011	54.52156058	1: White	1: Discharge to Home/ Self Care	1	1	5	1	1	0	0
+aggghl8Rh5n	1/16/2011	58.57905544	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+aggghlRggYY	4/10/2013	60.97741273	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+aggghlY8RBR	7/9/2013	60.39425051	1: White	3: Discharged to organized home HSO	0	0	6	1	1	0	0
+aggghlY8nnY	3/23/2014	68.13963039	1: White	1: Discharge to Home/ Self Care	1	0	9	0	0	0	0
+aggghlghRY8	6/4/2012	67.1430527	1: White	3: Discharged to organized home HSO	0	0	3	1	0	0	0
+aggghllYBgn	2/14/2011	66.45311431	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+aggghllYJR5	6/26/2011	68.98562628	2: Black	1: Discharge to Home/ Self Care	0	1	8	0	0	0	0
+aggghn5R8RB	10/9/2012	67.68788501	2: Black	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+aggghn85Y8B	4/12/2013	55.633128	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggghnJl88B	12/3/2013	55.63039014	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+aggghnRlBY5	1/30/2011	60.54757016	2: Black	1: Discharge to Home/ Self Care	1	0	8	1	0	0	0
+aggghnYJ55g	12/9/2011	27.96714579	2: Black	1: Discharge to Home/ Self Care	0	1	3	0	0	0	0
+aggghnYJhn8	5/22/2011	63.28268309	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+aggghngR5Y5	4/25/2014	64.47638604	2: Black	3: Discharged to organized home HSO	0	0	9	0	0	1	1
+aggghnlhl5h	7/6/2012	65.86995209	1: White	3: Discharged to organized home HSO	0	0	6	1	0	0	0
+aggghnnYYYY	1/18/2013	54.89664613	1: White	1: Discharge to Home/ Self Care	0	0	3	1	1	0	0
+agggl5BJJl8	2/25/2012	68.78302533	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+agggl5RglhR	8/14/2012	67.75085558	1: White	3: Discharged to organized home HSO	1	0	5	1	0	0	0
+agggl5hnJYn	4/24/2012	54.29431896	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+agggl5lnYg5	5/7/2012	57.26762491	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggl88h8Jn	10/17/2012	56.56673511	1: White	3: Discharged to organized home HSO	0	1	7	1	0	0	0
+agggl88hhgh	3/26/2012	66.01505818	1: White	1: Discharge to Home/ Self Care	0	1	1	1	0	0	0
+agggl88hnlR	10/20/2011	64.91718001	1: White	1: Discharge to Home/ Self Care	0	1	2	0	0	0	0
+agggl8RnlYl	5/20/2013	68.61875428	1: White	3: Discharged to organized home HSO	1	0	9	1	1	0	1
+agggl8YBRll	6/9/2012	39.82477755	1: White	2: Discharge to SNF	0	0	4	1	0	0	0
+agggl8gn8gB	10/23/2012	41.93839836	2: Black	3: Discharged to organized home HSO	0	1	3	1	1	0	0
+agggl8l8Rn8	5/4/2011	65.7522245	2: Black	4: Left against medical advice or discontin	1	1	7	1	0	0	0
+agggl8l8Y5R	6/4/2013	66.41204654	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agggl8n8nnl	12/15/2011	39.23066393	2: Black	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+aggglB5lYBh	4/28/2014	66.09993155	1: White	3: Discharged to organized home HSO	1	0	7	1	0	0	0
+aggglB8ngJn	12/29/2011	65.47022587	2: Black	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+aggglBJRh8R	2/22/2011	67.3155373	1: White	2: Discharge to SNF	0	1	5	1	0	0	0
+aggglBn5l5l	1/16/2013	69.94661191	1: White	1: Discharge to Home/ Self Care	1	1	5	1	0	0	0
+aggglJ5g58l	7/8/2013	57.045859	1: White	1: Discharge to Home/ Self Care	1	0	9	1	0	0	0
+aggglJB8RRh	3/21/2012	61.41546886	1: White	2: Discharge to SNF	0	0	2	0	0	0	0
+aggglJBl5Yh	3/14/2014	56.47912389	2: Black	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+aggglJBlhnl	2/18/2013	63.9945243	2: Black	1: Discharge to Home/ Self Care	1	0	10	1	1	0	0
+aggglJJghhR	3/3/2011	68.17522245	2: Black	3: Discharged to organized home HSO	0	1	6	0	0	0	0
+aggglJYB8B5	3/23/2012	64.29568789	1: White	2: Discharge to SNF	1	1	5	1	0	0	0
+aggglJYYg55	2/11/2011	67.51540041	2: Black	2: Discharge to SNF	0	1	9	1	0	1	0
+aggglJh5l5l	6/7/2013	69.70841889	1: White	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+aggglJl8BJJ	11/8/2012	57.98494182	2: Black	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+aggglJnJggn	12/25/2011	49.10335387	2: Black	1: Discharge to Home/ Self Care	0	1	2	0	0	0	0
+aggglR58Y5l	6/14/2012	50.81998631	1: White	2: Discharge to SNF	0	0	7	0	0	0	0
+aggglRhYnn8	10/28/2013	64.42436687	2: Black	2: Discharge to SNF	0	1	6	0	0	0	0
+aggglRhgRhh	1/12/2012	64.40793977	1: White	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+aggglY8Yl8l	6/29/2011	46.69130732	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+aggglYBJBJn	12/30/2011	58.43942505	1: White	3: Discharged to organized home HSO	1	0	6	1	1	0	0
+aggglYBJnJ5	7/24/2011	62.98151951	2: Black	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+aggglYBR8Jg	11/2/2013	56.48733744	1: White	1: Discharge to Home/ Self Care	0	1	3	0	0	0	0
+aggglYJ5lRn	9/30/2012	51.86310746	1: White	1: Discharge to Home/ Self Care	1	0	8	1	0	0	0
+aggglYRhlJg	4/5/2012	63.4715948	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	1
+aggglYlRhBh	6/6/2013	53.61533196	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	1	0	0
+aggglYlYYY8	5/16/2011	65.7467488	1: White	1: Discharge to Home/ Self Care	0	0	6	1	1	0	1
+aggglYnY5YB	8/29/2011	54.04517454	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggglg5g8Rn	7/21/2012	62.20670773	1: White	1: Discharge to Home/ Self Care	0	1	9	1	0	0	0
+aggglg8YY5h	10/21/2011	61.85900068	1: White	2: Discharge to SNF	0	1	7	1	1	0	0
+aggglg8hlYY	9/7/2011	53.00752909	1: White	1: Discharge to Home/ Self Care	1	0	5	1	1	1	0
+aggglgBB5hB	3/13/2013	67.27994524	2: Black	1: Discharge to Home/ Self Care	0	0	3	0	1	0	0
+aggglggRJJY	1/24/2011	69.08692676	1: White	1: Discharge to Home/ Self Care	0	0	9	1	0	0	0
+aggglgglJYg	8/28/2013	62.29705681	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggglghB58g	12/13/2013	64.19986311	2: Black	1: Discharge to Home/ Self Care	0	1	4	0	0	0	0
+aggglghnnnY	3/13/2012	69.99863108	1: White	1: Discharge to Home/ Self Care	1	0	6	0	0	0	0
+aggglgl5hl5	1/14/2013	54.5982204	2: Black	1: Discharge to Home/ Self Care	0	1	3	1	1	0	0
+aggglglJ58B	2/10/2012	69.29774127	2: Black	3: Discharged to organized home HSO	0	0	6	1	0	0	0
+aggglh558Yh	3/10/2011	69.02121834	1: White	3: Discharged to organized home HSO	1	1	11	0	1	0	0
+aggglh5BYJ5	10/16/2013	59.96167009	1: White	2: Discharge to SNF	0	1	8	1	0	0	0
+aggglh8BhgY	10/7/2013	54.85557837	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+aggglhBhYYJ	9/12/2011	66.93223819	1: White	1: Discharge to Home/ Self Care	1	0	3	0	0	0	0
+aggglhBnggn	5/4/2013	68.77754962	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+aggglhJRl8g	12/14/2013	66.11635866	2: Black	3: Discharged to organized home HSO	0	0	17	1	0	0	1
+aggglhRg5ln	3/15/2012	61.08145106	2: Black	1: Discharge to Home/ Self Care	0	1	5	1	0	0	1
+agggll555Jg	1/6/2012	64.84325804	1: White	1: Discharge to Home/ Self Care	1	0	4	0	0	0	0
+agggll55BR5	10/20/2011	61.40451745	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	1
+agggll5Bg5l	1/17/2012	51.56468173	2: Black	1: Discharge to Home/ Self Care	1	0	6	0	0	0	1
+agggll8nBRh	3/8/2013	59.4880219	2: Black	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+agggllBhghR	7/27/2013	66.00958248	1: White	1: Discharge to Home/ Self Care	0	0	8	0	0	0	0
+agggllJRhJ5	12/15/2013	67.38945927	1: White	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agggln5J8l5	3/28/2012	67.27173169	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agggln5J8lB	7/5/2011	68.22997947	1: White	1: Discharge to Home/ Self Care	1	1	4	0	0	0	0
+agggln8BYYB	6/6/2011	51.08555784	1: White	2: Discharge to SNF	0	1	2	1	1	0	0
+agggln8BhBn	5/4/2011	63.80287474	1: White	5: Transfer to ICF	0	0	4	0	0	0	0
+agggln8BnhR	2/3/2012	61.58795346	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	1
+aggglnB8YJ8	11/22/2011	56.3559206	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+aggglnBR5Rl	9/16/2013	69.88911704	6: Other	3: Discharged to organized home HSO	0	0	2	0	0	0	0
+aggglnYRnlB	8/25/2011	58.13552361	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+aggglnghJRJ	6/2/2011	65.33059548	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+aggglnhn5gl	6/6/2011	69.65913758	3: Asian	2: Discharge to SNF	0	0	8	1	0	0	0
+agggn8BBJRY	11/27/2011	65.08966461	1: White	3: Discharged to organized home HSO	0	0	3	1	0	0	0
+agggn8RJ5Jh	8/7/2011	57.21013005	1: White	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+agggn8gBnYl	3/23/2013	59.03627652	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agggn8lRglY	1/11/2012	64.56673511	1: White	2: Discharge to SNF	0	0	7	0	0	0	0
+agggnBYlBlJ	3/10/2012	47.816564	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggnJhg5g5	8/16/2012	58.85010267	2: Black	3: Discharged to organized home HSO	1	1	5	1	0	0	0
+agggnJhghn5	11/29/2012	34.80355921	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agggnJn88Rg	5/24/2012	62.01232033	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggnR8BhBJ	6/20/2013	67.04449008	1: White	3: Discharged to organized home HSO	0	0	8	1	0	0	0
+agggnRnlJ5B	5/29/2011	67.20328542	4: Hispanic	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggnY5B8BR	8/26/2011	63.69609856	1: White	1: Discharge to Home/ Self Care	0	1	3	1	1	0	1
+agggnY88gRB	4/2/2013	69.52498289	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggnYgBg8Y	2/24/2011	69.87816564	1: White	3: Discharged to organized home HSO	1	0	5	1	1	0	0
+agggngB8lJ8	3/23/2011	63.137577	1: White	5: Transfer to ICF	0	1	3	1	0	0	0
+agggngBJJ5J	11/1/2013	50.82546201	1: White	2: Discharge to SNF	0	1	4	1	0	0	0
+agggnghR55h	4/30/2011	60.03285421	2: Black	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
+agggngnRYgg	11/5/2012	59.17864476	1: White	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+agggnh5BRB5	1/26/2011	49.18822724	2: Black	1: Discharge to Home/ Self Care	0	0	7	0	0	0	0
+agggnh5gB5l	3/7/2011	69.23750856	1: White	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+agggnh88YBh	10/19/2013	69.44284737	1: White	1: Discharge to Home/ Self Care	0	1	6	1	0	1	1
+agggnh8lJgh	12/21/2011	54.80629706	2: Black	1: Discharge to Home/ Self Care	0	0	5	0	0	0	1
+agggnhJgY5B	7/26/2011	50.63928816	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	1	0
+agggnhRhJ8g	5/2/2012	51.56468173	1: White	2: Discharge to SNF	0	0	11	1	0	0	1
+agggnhRhgRY	12/1/2011	56.27378508	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agggnhRl85n	4/7/2013	62.27241615	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggnhhgJhR	12/23/2011	66.0698152	1: White	1: Discharge to Home/ Self Care	1	0	5	0	0	0	0
+agggnl5n888	11/14/2011	62.30800821	1: White	3: Discharged to organized home HSO	1	0	10	1	0	0	0
+agggnlRY8J8	3/25/2011	54.28884326	1: White	1: Discharge to Home/ Self Care	0	0	12	0	0	0	0
+agggnlllBJB	6/23/2011	69.2128679	1: White	1: Discharge to Home/ Self Care	1	1	2	1	0	0	0
+agggnllnBh5	12/3/2013	66.91307324	1: White	3: Discharged to organized home HSO	0	0	3	1	0	0	0
+agggnlnBnBR	5/10/2013	38.22039699	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agggnn5nBhg	7/22/2013	60.3449692	1: White	2: Discharge to SNF	0	1	7	1	0	0	0
+agggnn5nh8l	4/21/2012	63.77823409	1: White	1: Discharge to Home/ Self Care	0	0	4	1	1	0	0
+agggnnJY55l	2/15/2013	67.16221766	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+agggnnJYRgJ	5/5/2012	66.40930869	1: White	1: Discharge to Home/ Self Care	0	0	6	0	0	0	0
+agggnnY5BJ5	12/30/2011	32.27652293	1: White	1: Discharge to Home/ Self Care	0	0	1	0	0	0	0
+agggnnggRgl	9/21/2012	59.41957563	1: White	1: Discharge to Home/ Self Care	0	1	5	1	0	0	0
+agggnnhBn5Y	10/20/2013	67.02532512	2: Black	2: Discharge to SNF	0	1	6	1	1	0	0
+agggnnn58lY	3/15/2011	52.3449692	2: Black	1: Discharge to Home/ Self Care	1	1	7	1	0	0	0
+agghgB8R5lR	10/2/2013	54.11362081	1: White	1: Discharge to Home/ Self Care	0	0	2	1	0	0	0
+agghgBgYgBl	3/11/2014	66.45311431	1: White	2: Discharge to SNF	0	0	11	0	0	0	0
+agghgYJYlgJ	4/2/2013	49.26214921	1: White	1: Discharge to Home/ Self Care	1	1	2	1	1	0	0
+agghgYghlll	10/26/2013	58.08350445	1: White	1: Discharge to Home/ Self Care	1	1	8	0	0	0	0
+agghgl8JBJ5	7/11/2014	66.84462697	7: Unknown	1: Discharge to Home/ Self Care	1	1	4	1	1	0	0
+agghglnhRlh	8/29/2012	35.73169062	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+aggl8JJhhlB	12/11/2013	66.83641342	1: White	3: Discharged to organized home HSO	0	1	3	1	0	0	0
+aggl8JglRgl	11/15/2013	66.49418207	1: White	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+aggl8R58BJl	5/13/2013	45.24298426	2: Black	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+aggl8gBBlBY	9/22/2014	65.54414784	4: Hispanic	2: Discharge to SNF	0	0	13	0	0	1	0
+aggl8gR5JYh	7/25/2014	67.44421629	7: Unknown	3: Discharged to organized home HSO	1	0	8	1	0	0	0
+aggl8gR8g5B	11/16/2013	40.68172485	2: Black	1: Discharge to Home/ Self Care	1	1	2	1	0	0	0
+aggl8gRRBB5	8/5/2013	41.31964408	1: White	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+aggl8gRh5gY	6/9/2013	44.53935661	1: White	1: Discharge to Home/ Self Care	1	1	6	1	0	0	0
+aggl8gg8JB5	2/20/2014	66.99520876	2: Black	5: Transfer to ICF	0	0	8	1	0	0	0
+aggl8gg8hgB	4/11/2013	66.14373717	3: Asian	3: Discharged to organized home HSO	1	0	5	1	0	0	0
+aggl8glghRY	5/23/2013	66.50787132	1: White	5: Transfer to ICF	0	1	3	1	0	0	0
+aggl8gnYJgR	3/10/2013	60.3340178	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	1
+aggl8gnlhRn	10/31/2013	63.11293635	2: Black	1: Discharge to Home/ Self Care	0	1	6	0	1	0	0
+aggl8gnn5g5	10/23/2013	53.5633128	2: Black	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+aggl8n5JnBY	11/19/2013	61.41820671	2: Black	3: Discharged to organized home HSO	0	1	5	0	0	0	0
+aggl8n5RJ5J	10/22/2013	66.26694045	2: Black	3: Discharged to organized home HSO	0	0	3	1	1	0	0
+aggl8nBhlYB	12/3/2013	66.40930869	2: Black	1: Discharge to Home/ Self Care	0	0	2	1	0	0	1
+aggl8nBnYhg	7/19/2013	60.67077344	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+aggl8nJ5ngg	12/16/2013	67.01711157	3: Asian	1: Discharge to Home/ Self Care	0	0	10	1	0	0	0
+aggl8nJ8BJB	10/15/2013	43.89596167	2: Black	1: Discharge to Home/ Self Care	0	1	2	1	1	0	0
+aggl8ngYhhh	5/6/2013	66.21765914	4: Hispanic	1: Discharge to Home/ Self Care	0	1	8	1	0	0	0
+aggl8nhg55n	9/20/2013	66.25051335	7: Unknown	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+aggl8nhgnn8	11/1/2013	65.61259411	1: White	1: Discharge to Home/ Self Care	0	1	2	1	0	0	0
+agglR5Y5lnl	4/23/2013	35.07460643	1: White	4: Left against medical advice or discontin	0	1	3	1	0	0	0
+agglR5YlRlR	7/18/2013	63.43600274	1: White	1: Discharge to Home/ Self Care	0	0	6	1	1	0	0
+agglR85g8YB	4/22/2013	55.37303217	1: White	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agglR88Jlh8	12/3/2012	66.48049281	1: White	3: Discharged to organized home HSO	0	1	7	1	0	0	0
+agglR8B85Bn	12/2/2013	62.48596852	2: Black	1: Discharge to Home/ Self Care	0	0	1	0	0	0	0
+agglR8J8JBJ	7/31/2013	50.86379192	2: Black	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agglR8R5llB	7/7/2013	56.3504449	1: White	1: Discharge to Home/ Self Care	0	0	5	0	0	0	0
+agglR8RYJhn	4/14/2013	53.42915811	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agglR8RlYh5	9/15/2013	66.65297741	1: White	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agglR8lJh85	1/27/2014	67.34291581	2: Black	3: Discharged to organized home HSO	0	0	15	0	0	0	0
+agglR8nRJ85	1/29/2014	63.58932238	1: White	3: Discharged to organized home HSO	1	0	12	1	0	0	0
+agglRJJRngl	1/16/2012	65.41273101	2: Black	1: Discharge to Home/ Self Care	1	0	6	1	0	0	0
+agglRJgBnYY	11/29/2012	66.31622177	1: White	3: Discharged to organized home HSO	0	1	6	1	1	0	0
+agglRJhB55B	2/21/2013	56.32580424	1: White	1: Discharge to Home/ Self Care	0	0	12	0	0	0	0
+agglRJhhYhY	1/15/2013	61.03216975	1: White	3: Discharged to organized home HSO	1	0	5	0	0	0	0
+agglRJlRhhl	9/19/2012	62.99794661	2: Black	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agglRg58B5g	8/29/2012	59.6659822	5: North American Native	1: Discharge to Home/ Self Care	0	0	1	1	0	0	0
+agglRg5J5l5	7/13/2013	67.04449008	1: White	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+agglRg5gh55	1/9/2013	66.57631759	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agglRg5gnn8	11/15/2012	27.39767283	2: Black	1: Discharge to Home/ Self Care	0	0	7	0	0	0	0
+agglRg8gggR	8/9/2013	63.64681725	2: Black	1: Discharge to Home/ Self Care	0	0	4	1	0	0	0
+agglRg8glgn	3/1/2013	61.70841889	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agglRgBgn8B	3/4/2014	67.67419576	1: White	1: Discharge to Home/ Self Care	1	0	2	1	0	0	0
+agglRgJBBhl	7/3/2013	55.58110883	2: Black	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+agglRgJhgRl	7/21/2013	68.03559206	1: White	1: Discharge to Home/ Self Care	0	1	2	0	0	0	0
+agglRgR5JBR	10/20/2013	67.23613963	1: White	1: Discharge to Home/ Self Care	1	1	2	1	0	0	0
+agglRgRJJlR	11/16/2013	67.31279945	1: White	3: Discharged to organized home HSO	0	0	8	1	0	0	0
+agglRgRJngn	9/15/2012	49.11156742	2: Black	1: Discharge to Home/ Self Care	0	0	10	0	0	0	0
+agglRgY5gg5	11/17/2013	67.52361396	1: White	1: Discharge to Home/ Self Care	0	1	5	0	0	0	1
+agglRgY5ghn	1/16/2012	38.53798768	2: Black	1: Discharge to Home/ Self Care	0	1	5	0	0	0	0
+agglRgYnn5Y	11/22/2012	68.13963039	4: Hispanic	1: Discharge to Home/ Self Care	1	0	5	1	0	0	0
+agglRggBghl	11/24/2012	56.32306639	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agglRgh8RY8	3/5/2013	50.80903491	1: White	4: Left against medical advice or discontin	1	0	6	0	0	0	1
+agglRglYYYn	6/21/2014	68.09582478	1: White	1: Discharge to Home/ Self Care	1	0	8	0	0	0	0
+agglRh58gJR	6/27/2013	66.80082136	1: White	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agglRhBh5BY	1/22/2013	58.6091718	1: White	1: Discharge to Home/ Self Care	0	1	3	0	0	0	0
+agglRhBhh8Y	10/2/2012	57.97125257	1: White	1: Discharge to Home/ Self Care	1	0	9	1	0	0	0
+agglRhR58BB	2/16/2014	67.56194387	1: White	1: Discharge to Home/ Self Care	0	0	4	0	0	0	0
+agglRhRgnh8	2/4/2013	56.76659822	2: Black	1: Discharge to Home/ Self Care	0	1	4	1	0	0	0
+agglY555Y8Y	3/30/2013	36.183436	4: Hispanic	1: Discharge to Home/ Self Care	0	0	8	1	0	0	0
+agglY55BRgB	5/12/2013	55.24435318	2: Black	1: Discharge to Home/ Self Care	0	0	3	0	0	0	0
+agglY5h5hgJ	9/23/2013	55.57563313	2: Black	3: Discharged to organized home HSO	1	0	5	0	0	0	0
+agglY5n8B88	12/23/2012	67.10198494	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agglY5n8nBJ	3/27/2012	62.16016427	1: White	1: Discharge to Home/ Self Care	0	1	3	1	0	0	0
+agglY5nRhnB	12/30/2012	67.15400411	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+agglY8B8BY5	11/13/2012	66.68309377	1: White	1: Discharge to Home/ Self Care	1	0	4	1	0	0	0
+agglY8BBhR8	3/2/2013	57.20465435	1: White	1: Discharge to Home/ Self Care	0	0	2	0	0	0	0
+agglY8BYglg	5/4/2012	61.70568104	1: White	1: Discharge to Home/ Self Care	0	0	3	1	0	0	0
+agglY8RJBYg	9/27/2012	58.96783025	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agglY8Yl5YB	8/28/2012	53.68925394	2: Black	1: Discharge to Home/ Self Care	0	1	6	0	0	0	0
+agglYR55YBJ	6/3/2013	67.39219713	1: White	1: Discharge to Home/ Self Care	0	0	1	0	0	0	0
+agglYR5hghn	12/29/2012	58.66666667	1: White	1: Discharge to Home/ Self Care	1	0	6	1	1	0	0
+agglYR5lghl	10/11/2013	67.39767283	1: White	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
+agglYRB8hRY	8/27/2013	67.70978782	2: Black	1: Discharge to Home/ Self Care	0	1	7	1	0	0	0
+agglYRBJgJh	3/30/2012	43.04996578	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agglYRR858B	8/10/2012	66.49418207	1: White	1: Discharge to Home/ Self Care	0	1	7	0	0	0	0
+agglYRY5JY8	9/27/2013	67.75906913	1: White	2: Discharge to SNF	0	1	11	1	0	1	0
+agglYRYh8gg	12/17/2013	50.39288159	2: Black	1: Discharge to Home/ Self Care	0	1	6	1	0	0	0
+agglYRhBJnY	1/19/2012	66.08898015	1: White	1: Discharge to Home/ Self Care	0	0	6	1	0	0	0
+agglYRhR5B5	11/11/2012	58.98151951	4: Hispanic	1: Discharge to Home/ Self Care	1	0	6	0	0	0	0
+agglYRhR85n	7/31/2013	67.83025325	1: White	3: Discharged to organized home HSO	0	1	10	1	0	0	0
+agglYRhgglB	1/14/2013	60.60506502	1: White	3: Discharged to organized home HSO	0	0	2	1	0	0	0
+agglYRhlRhJ	8/10/2012	37.96577687	2: Black	1: Discharge to Home/ Self Care	0	1	5	0	1	0	0
+agglYRl555R	6/30/2012	66.49965777	1: White	1: Discharge to Home/ Self Care	1	0	3	1	0	0	0
+agglYRlnRRg	11/13/2012	66.9486653	1: White	1: Discharge to Home/ Self Care	0	0	5	1	0	0	0
+agglYRnggYY	10/27/2013	69.46475017	2: Black	1: Discharge to Home/ Self Care	0	0	1	1	1	0	0
+agglYRnhnBY	3/17/2014	68.50102669	3: Asian	3: Discharged to organized home HSO	1	0	9	0	0	1	0
+agglYRnlY8Y	9/18/2012	67.55099247	1: White	1: Discharge to Home/ Self Care	1	0	7	1	0	0	0
